@@ -173,7 +173,7 @@ Examples:
         cat transcripts.fa | rlsim -n 2000000
 
 For more details consult the package manual at:
-        https://github.com/sbotond/rlsim/tree/master/doc/rlsim_manual.pdf
+        https://github.com/botond-sipos/rlsim/tree/master/doc/rlsim_manual.pdf
 `)
 		os.Exit(0)
 	}
