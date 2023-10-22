@@ -31,5 +31,5 @@ package main
 var VERSION string
 
 func init() {
-	VERSION = "1.3"
+	VERSION = "1.4.1"
 }
